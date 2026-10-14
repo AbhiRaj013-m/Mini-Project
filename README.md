@@ -1,1 +1,1 @@
-# Mini-Project
+Product Inventory Dashboard Mini-Project
